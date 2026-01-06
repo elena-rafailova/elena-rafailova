@@ -1,8 +1,8 @@
-# Hi, I’m **Elena Daskalova**👋
+# Hi, I’m Elena Daskalova👋
 
-Senior Frontend Engineer (React / TypeScript)
+## Senior Frontend Engineer (React / TypeScript)
 
-🚀 **Personal wesbite with blog where I write about practical insights on frontend engineering, architecture, and lessons learned from real-world projects.**
+🚀 **Personal website with blog where I write about practical insights on frontend engineering, architecture, and lessons learned from real-world projects.**
 👉 https://elena-daskalova.dev
 
 ### How I think about frontend

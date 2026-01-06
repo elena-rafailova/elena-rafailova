@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m **Elena Daskalova**👋
 
-<!--
-**elena-rafailova/elena-rafailova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer (React / TypeScript)
 
-Here are some ideas to get you started:
+🚀 **Personal wesbite with blog where I write about practical insights on frontend engineering, architecture, and lessons learned from real-world projects.**
+👉 https://elena-daskalova.dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How I think about frontend
+I see frontend as more than UI — it's a system. Having worked on large, long-lived applications, I focus on predictable data flow, clear boundaries between concerns, and patterns that scale with both product complexity and team size.
+
+I'm particularly interested in how frontend architecture impacts developer experience, onboarding, and long-term team velocity.
+
+
